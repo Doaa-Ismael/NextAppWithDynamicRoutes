@@ -23,5 +23,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/.netlify/functions/next_404"
+  to = "/.netlify/functions/next_numbers/nextPage"
   status = 404
