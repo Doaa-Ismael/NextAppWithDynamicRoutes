@@ -11,6 +11,9 @@ export default function Home() {
             <div onClick={() => router.push('/numbers')} style={{cursor: 'pointer'}}>
                 Go TO NUMBERS PAGE
             </div>
+             <div onClick={() => router.push('/dsfssd')} style={{cursor: 'pointer'}}>
+            Go TO NOT FOUND PAGE
+        </div>
     </div>
   )
 }
